@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16A323" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Pelicula" representedClassName="Pelicula" syncable="YES" codeGenerationType="class">
+        <attribute name="actores" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="agregado" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="censura" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="director" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="duracion" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="fechaEstreno" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="genero" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="productora" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sinopsis" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="titulo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="urlPortada" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="urlTrailer" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Pelicula" positionX="-63" positionY="-18" width="128" height="240"/>
+    </elements>
+</model>

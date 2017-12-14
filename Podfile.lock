@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.5.1)
+  - IQKeyboardManagerSwift (5.0.6)
+  - Koloda (4.3.1):
+    - pop (~> 1.0)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - pop (1.0.10)
+  - ReachabilitySwift (3)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - IQKeyboardManagerSwift
+  - Koloda
+  - MagicalRecord
+  - ReachabilitySwift (~> 3)
+  - SDWebImage (~> 3.8)
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  IQKeyboardManagerSwift: 02bfbb0dff71c66d0ab77d80d25dfce0c3717735
+  Koloda: 0d39b2aa188ccd1fac48d752acaf9802e683c625
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: e1a445789a10e1090d771e80369a06715ed9eb26
+
+COCOAPODS: 1.3.1
